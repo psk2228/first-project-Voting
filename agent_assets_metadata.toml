@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "_bHGuS0HJ55DKMnUbFcpJ"
+uri = "file://artifacts/voting-app/assets/images/icon.png"
+type = "image"
+title = "voting app icon"
+
+[[generated]]
+id = "iIoRseHkC0_dH5oMMBIuK"
+uri = "file://artifacts/voting-app/assets/images/splash.png"
+type = "image"
+title = "voting splash"
